@@ -173,7 +173,7 @@ const cakes = [
     priceHalfKg: 750,
     priceHeartKg:1400,
   priceHeartHalfKg: 730,
-    image: "/Chocolate Tres Leach.jpg"
+    image: "/cake.jpeg"
   },
   {
     label: "OUR SPECIAL TOUCH",
@@ -327,7 +327,7 @@ const cakes = [
   {
   label: "CUP CAKES",
   name: "Vanilla Cup Cake ",
-  category: "Cup Cake",
+  category: "Eggless",
   quantity: "6 No.s",
   pricePlain: 120,
   priceFrosting: 210,
@@ -336,7 +336,7 @@ const cakes = [
   {
     label: "CUP CAKES",
     name: "Chocolate",
-    category: "Cup Cake",
+    category: "Eggless",
     quantity: "6 No.s",
   pricePlain: 120,
   priceFrosting: 210,
@@ -374,7 +374,7 @@ const cakes = [
   {
   label: "Sweet",
   name: "Muttai Mittai",
-  
+  category: "Cookie",
   price250g: 200,
   price500g: 400,
   weightOptions: ["250g", "500g"],

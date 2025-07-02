@@ -15,8 +15,6 @@ export default function CakeCard({ cake }) {
       {cake.priceHeartKg && <p>❤️ <strong>Heart Shape Kg:</strong> ₹{cake.priceHeartKg}</p>}
       {cake.priceHeartHalfKg && <p>❤️ <strong>Heart Shape ½ Kg:</strong> ₹{cake.priceHeartHalfKg}</p>}
       
-
-
       {cake.weight && <p><strong>Weight:</strong> {cake.weight}</p>}
       {cake.priceEgg && <p><strong>Egg:</strong> ₹{cake.priceEgg}</p>}
       {cake.priceEggless && <p><strong>Eggless:</strong> ₹{cake.priceEggless}</p>}
